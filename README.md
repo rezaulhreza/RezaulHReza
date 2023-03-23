@@ -11,9 +11,6 @@ Full-stack software engineer with a passion for building innovative and user-fri
 - Familiar with the Java ecosystem such as Spring, including Spring Boot, Spring MVC, and Hibernate.
 ## GitHub Stats
 
-![rezaulhreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaulhreza&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaulhreza)](https://github.com/rezaulhreza/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rezaulhreza&theme=jolly" width="700">
 
