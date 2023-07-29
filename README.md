@@ -1,5 +1,4 @@
-# Rezaulhreza <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/rezaulhreza?v=3)
+# Rezaulhreza
 
 
 Full-stack software engineer with a passion for building innovative and user-friendly digital solutions. 
